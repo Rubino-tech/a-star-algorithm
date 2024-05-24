@@ -6,14 +6,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // make a new JFrame window and set it up
         JFrame window = new JFrame();
         window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         window.setResizable(false);
         
         MainPanel mainPanel = new MainPanel();
 
-        window.add(mainPanel);              // the 'MainPanel' class must 'extends JPanel' in order to work
+        window.add(mainPanel);
         
         mainPanel.startMainThread();
         

@@ -1,45 +1,43 @@
 
 p
-java:S1066h"/Merge this if statement with the enclosing one.(Í•ÄüÿÿÿÿJ$b0ee7f2c-4072-4c92-b922-40a43e29287a
+java:S1066S"/Merge this if statement with the enclosing one.(Í•ÄüÿÿÿÿJ$3d9dc755-cc10-4e99-82ba-b0d4d02b3297
 l
-java:S1066ÿ"/Merge this if statement with the enclosing one.(Ì©¢ÆJ$6777b225-be18-47f6-b3ad-6b7db7c42eab
-„
-java:S2184ƒ"BCast one of the operands of this division operation to a "double".(¿ºÂ‡ûÿÿÿÿJ$8a857ded-29e8-4d1e-87d5-04df13b33683
-‰	java:S116"NRename this field "FPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ†Í©J$684a42cf-29f2-4d3d-8e97-c8a26eb125ae
-]
-java:S1170"!Make this final field static too.(‡œÿŸJ$d9572cb2-dc36-41c6-946f-a37c6eef3528
+java:S1066½"/Merge this if statement with the enclosing one.(Ì©¢ÆJ$2821eb1e-14a0-4556-b79b-f05b7c3e57ee
+‹
+java:S2184Ÿ"BCast one of the operands of this division operation to a "double".(¿ºÂ‡ûÿÿÿÿ8¿©Öú1J$a9d6457e-c28a-4c3c-ac07-68307a744af5
+	java:S116"NRename this field "FPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»˜±Š8Ş²Öú1J$f8ddf5b7-a60a-411b-88e2-550385ef8a74
 b
-java:S1170"!Make this final field static too.(Çä»…ÿÿÿÿÿJ$df7d2b60-0565-42ac-ba0e-f9585f25b738
+java:S1170"!Make this final field static too.(†î¿ŸşÿÿÿÿJ$2b37c97d-b153-4a72-9d30-587b8288a19e
 b
-java:S1170"!Make this final field static too.(†­øøÿÿÿÿJ$214f0f11-de34-4529-9bf2-83288a6e1cc7
-]
-java:S1170"!Make this final field static too.(Â¥ÙÙJ$42274597-9f4f-43ce-8969-3ff2747a2e55
-b
-java:S1170"!Make this final field static too.(À˜çÙüÿÿÿÿJ$87269d27-960a-4ae5-8070-eccf962835fb
-¾
-java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö×õÄJ$d5f568c1-c873-4043-be85-06b6ec964806
-¾
-java:S1186Ä"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıÇÕ¤J$137ee1fa-6cff-439e-a2c8-edff212e46be
-†
-java:S1659#"EDeclare "goalNode" and all following declarations on a separate line.(ç¡›ºüÿÿÿÿJ$043601d3-e00d-4627-8672-0cb9eb0439c9
-m
-java:S1948",Make "mainThread" transient or serializable.(‘¯Ÿ×úÿÿÿÿJ$140b1282-0695-4139-b936-7189ca7f9a29
-f	java:S106O"+Replace this use of System.out by a logger.(Ö¢¢òJ$d93f597d-ea54-4146-9c6f-eaed3f36015f
-	java:S125¯"<This block of commented-out lines of code should be removed.(Éş¤ô8°¯˜·î1J$5eced00e-488d-4f00-88ca-7e10bd3944b5
-”
-java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(ø·åœøÿÿÿÿJ$b7e3378b-2f43-4a65-a225-549ad6353fa5
-c
-java:S1125Å"'Remove the unnecessary boolean literal.(±ƒ¨RJ$434e7d3b-1f03-4280-afc1-80e28274be46
-{
-java:S1155‰">Use isEmpty() to check whether the collection is empty or not.(ÓÑâæJ$fe5c03dd-248b-4500-ab5d-0f38a5491181
-l	java:S106"+Replace this use of System.out by a logger.(ŒÊ¨äüÿÿÿÿJ$44fdcaf7-35c4-401c-b5d5-2c97a5ac7282
-l	java:S106«"+Replace this use of System.out by a logger.(ß‘¨êşÿÿÿÿJ$cf86b4d4-d9f1-4fb7-bf0f-6ed710798a0c
+java:S1170"!Make this final field static too.(¨ßúıÿÿÿÿJ$a2d6f795-c431-407b-a092-ef80ef9d8313
 i
-java:S1125Ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿJ$4784262a-c0c3-45ce-8d67-0f62137c3c6b
+java:S1170"!Make this final field static too.(µÄî®øÿÿÿÿ8á²Öú1J$f41441b5-9d8d-4166-bb40-5c2b9b10a670
+d
+java:S1170"!Make this final field static too.(Â¥ÙÙ8á²Öú1J$b6a524aa-771e-4068-ae7c-a5fe291929f6
 i
-java:S1125Ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿJ$1ffa4a2e-2905-43c1-aa8d-b7cb0514c874
-i
-java:S1125Ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿJ$eca9ab46-fa53-4d80-9e0d-c924ac68d875
-x	java:S125 "<This block of commented-out lines of code should be removed.(ç  õJ$d68cca51-2d51-4958-bd63-cac02922d1d8
-}	java:S125©"<This block of commented-out lines of code should be removed.(…¨ŒúûÿÿÿÿJ$fd402b42-a25b-4ebd-bf45-fed3bc8431f1
-l	java:S106±"+Replace this use of System.out by a logger.(¢ÈÆ÷øÿÿÿÿJ$09c77404-6bcd-457e-8c3e-afcff4b15c06
+java:S1170"!Make this final field static too.(À˜çÙüÿÿÿÿ8á²Öú1J$900acecd-d06e-4c51-a416-aa5eecd0a537
+Å
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö×õÄ8ïŞ¼Öú1J$214f5477-9129-4358-b1c3-57a18ad5361c
+Ÿ
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıÇÕ¤8•¾Öú1
+
+java:S1659"EDeclare "goalNode" and all following declarations on a separate line.(ç¡›ºüÿÿÿÿ8ã²Öú1J$b452512a-9fc1-4f8c-824e-8c095a267ec9
+o
+java:S1948",Make "mainThread" transient or serializable.(ó™’—8ä²Öú1J$5556b17e-9e03-42d0-811e-d2df8d80c50b
+l	java:S106?"+Replace this use of System.out by a logger.(ÚšM8ç²Öú1J$fdfc27fc-b8ce-4872-916e-70e6412fb3e7
+–
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(“¥ö¥8ë²Öú1J$dfba41d9-b91d-426e-af12-206cbd3f0b5c
+j
+java:S1125•"'Remove the unnecessary boolean literal.(±ƒ¨R8í²Öú1J$a162d51c-33f2-42a5-87a0-01b44035d79d
+‚
+java:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(ÓÑâæ8ï²Öú1J$e5b2cd73-950a-4266-a962-228f02b1e693
+n	java:S106Ë"+Replace this use of System.out by a logger.(Ò©Öº8ï²Öú1J$5d502a6e-ddd6-4ba9-9401-3384f165bcb5
+m	java:S106Ü"+Replace this use of System.out by a logger.(çá£s8ğ²Öú1J$05312fc9-7262-43ab-9d2a-5a3494d3462a
+q	java:S108å")Either remove or fill this block of code.(É‰×îşÿÿÿÿ8ñ²Öú1J$03fb5748-4027-4cfa-ac1b-8434ca559553
+p
+java:S1125ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8ò²Öú1J$3dd03841-d8e2-4cb3-b276-abc9aae26690
+p
+java:S1125ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8ò²Öú1J$9a8141a1-eaee-4094-a1bd-a8b8dd68da9e
+p
+java:S1125ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8ò²Öú1J$0d5dc30b-9fa4-4707-8800-4cfaee9893d2
+n	java:S106Ã"+Replace this use of System.out by a logger.(©¬–Ó8ƒß¼Öú1J$490d37cd-8782-4ac1-8500-88ddda30f6ff
