@@ -1,43 +1,43 @@
 
-p
-java:S1066S"/Merge this if statement with the enclosing one.(Í•ÄüÿÿÿÿJ$3d9dc755-cc10-4e99-82ba-b0d4d02b3297
-l
-java:S1066½"/Merge this if statement with the enclosing one.(Ì©¢ÆJ$2821eb1e-14a0-4556-b79b-f05b7c3e57ee
+w
+java:S1066H"/Merge this if statement with the enclosing one.(Í•Äüÿÿÿÿ8«ÏÄş1J$faf8586b-053a-4df1-928a-5586829974e7
+s
+java:S1066£"/Merge this if statement with the enclosing one.(Ì©¢Æ8±ÑÄş1J$2a93f9d7-4258-4d59-856a-5d6e65775424
 ‹
-java:S2184Ÿ"BCast one of the operands of this division operation to a "double".(¿ºÂ‡ûÿÿÿÿ8¿©Öú1J$a9d6457e-c28a-4c3c-ac07-68307a744af5
-	java:S116"NRename this field "FPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»˜±Š8Ş²Öú1J$f8ddf5b7-a60a-411b-88e2-550385ef8a74
-b
-java:S1170"!Make this final field static too.(†î¿ŸşÿÿÿÿJ$2b37c97d-b153-4a72-9d30-587b8288a19e
-b
-java:S1170"!Make this final field static too.(¨ßúıÿÿÿÿJ$a2d6f795-c431-407b-a092-ef80ef9d8313
+java:S2184ï"BCast one of the operands of this division operation to a "double".(¿ºÂ‡ûÿÿÿÿ8’±ÑÄş1J$a3f39049-659a-4ec1-a992-4ac7cb198c73
+	java:S116"NRename this field "FPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»˜±Š8ôŸÏÄş1J$8308e657-91c1-4dd3-b43d-c92b845f4c4b
 i
-java:S1170"!Make this final field static too.(µÄî®øÿÿÿÿ8á²Öú1J$f41441b5-9d8d-4166-bb40-5c2b9b10a670
+java:S1170"!Make this final field static too.(†î¿Ÿşÿÿÿÿ8øŸÏÄş1J$20003e0d-ce54-4bbd-bbe8-a95ebbf9e8b9
+i
+java:S1170"!Make this final field static too.(¨ßúıÿÿÿÿ8øŸÏÄş1J$ae568df8-e2da-40d9-aa72-6cb6ffff02f8
+i
+java:S1170"!Make this final field static too.(µÄî®øÿÿÿÿ8øŸÏÄş1J$8d56438d-e1bb-4060-b118-1798e226742e
 d
-java:S1170"!Make this final field static too.(Â¥ÙÙ8á²Öú1J$b6a524aa-771e-4068-ae7c-a5fe291929f6
+java:S1170"!Make this final field static too.(Â¥ÙÙ8øŸÏÄş1J$beca241a-6412-4d9f-b36a-36730b196289
 i
-java:S1170"!Make this final field static too.(À˜çÙüÿÿÿÿ8á²Öú1J$900acecd-d06e-4c51-a416-aa5eecd0a537
+java:S1170"!Make this final field static too.(À˜çÙüÿÿÿÿ8ùŸÏÄş1J$392c69c5-c2d3-4729-bcee-2a15ecce985f
 Å
-java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö×õÄ8ïŞ¼Öú1J$214f5477-9129-4358-b1c3-57a18ad5361c
-Ÿ
-java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıÇÕ¤8•¾Öú1
+java:S1186–"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö×õÄ8À³ÑÄş1J$965fec8c-1cda-4de3-a9dd-1fdc4ce17109
+Å
+java:S1186™"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ıÇÕ¤8À³ÑÄş1J$d2ec28f6-3113-41f5-a155-214b6f8bb131
 
-java:S1659"EDeclare "goalNode" and all following declarations on a separate line.(ç¡›ºüÿÿÿÿ8ã²Öú1J$b452512a-9fc1-4f8c-824e-8c095a267ec9
+java:S1659"EDeclare "goalNode" and all following declarations on a separate line.(ç¡›ºüÿÿÿÿ8ûŸÏÄş1J$f51e4d6e-6e99-45cb-9581-3215d9a6745b
 o
-java:S1948",Make "mainThread" transient or serializable.(ó™’—8ä²Öú1J$5556b17e-9e03-42d0-811e-d2df8d80c50b
-l	java:S106?"+Replace this use of System.out by a logger.(ÚšM8ç²Öú1J$fdfc27fc-b8ce-4872-916e-70e6412fb3e7
+java:S1948",Make "mainThread" transient or serializable.(ó™’—8ıŸÏÄş1J$89a32c34-d142-4501-a7b6-c5c681a92ccd
+l	java:S1067"+Replace this use of System.out by a logger.(ÚšM8 ÏÄş1J$0c483a0d-5b6b-4c03-8e46-42d55e1db2fb
 –
-java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(“¥ö¥8ë²Öú1J$dfba41d9-b91d-426e-af12-206cbd3f0b5c
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(“¥ö¥8Í³ÑÄş1J$465695ed-d55b-4cb0-9289-97d3e3e9e6d8
 j
-java:S1125•"'Remove the unnecessary boolean literal.(±ƒ¨R8í²Öú1J$a162d51c-33f2-42a5-87a0-01b44035d79d
+java:S1125…"'Remove the unnecessary boolean literal.(±ƒ¨R8Î³ÑÄş1J$d516dc8d-f254-4b10-9444-6cdf03efca33
 ‚
-java:S1155Æ">Use isEmpty() to check whether the collection is empty or not.(ÓÑâæ8ï²Öú1J$e5b2cd73-950a-4266-a962-228f02b1e693
-n	java:S106Ë"+Replace this use of System.out by a logger.(Ò©Öº8ï²Öú1J$5d502a6e-ddd6-4ba9-9401-3384f165bcb5
-m	java:S106Ü"+Replace this use of System.out by a logger.(çá£s8ğ²Öú1J$05312fc9-7262-43ab-9d2a-5a3494d3462a
-q	java:S108å")Either remove or fill this block of code.(É‰×îşÿÿÿÿ8ñ²Öú1J$03fb5748-4027-4cfa-ac1b-8434ca559553
+java:S1155©">Use isEmpty() to check whether the collection is empty or not.(ÓÑâæ8Ñ³ÑÄş1J$75de820a-10e6-4d94-b9f5-2e310d784b74
+n	java:S106®"+Replace this use of System.out by a logger.(Ò©Öº8Ñ³ÑÄş1J$a90bb375-190b-480b-a5b1-df7fbcf3ab8e
+m	java:S106¼"+Replace this use of System.out by a logger.(çá£s8Ò³ÑÄş1J$2829b0a2-ae59-4de9-9fd5-5342f858e78a
+q	java:S108Ã")Either remove or fill this block of code.(É‰×îşÿÿÿÿ8Ó³ÑÄş1J$27bb5d8e-f152-46d1-9caa-93cf5e269322
 p
-java:S1125ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8ò²Öú1J$3dd03841-d8e2-4cb3-b276-abc9aae26690
+java:S1125Ë"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8Ô³ÑÄş1J$dbcbc3d9-03fc-4dd6-a3db-0903dd203a41
 p
-java:S1125ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8ò²Öú1J$9a8141a1-eaee-4094-a1bd-a8b8dd68da9e
+java:S1125Ë"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8Ô³ÑÄş1J$8e9564ff-b98e-4379-b8aa-76ac734f18e6
 p
-java:S1125ò"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8ò²Öú1J$0d5dc30b-9fa4-4707-8800-4cfaee9893d2
-n	java:S106Ã"+Replace this use of System.out by a logger.(©¬–Ó8ƒß¼Öú1J$490d37cd-8782-4ac1-8500-88ddda30f6ff
+java:S1125Ë"'Remove the unnecessary boolean literal.(Š£†½şÿÿÿÿ8Ô³ÑÄş1J$a0bba10a-7dc6-41e8-a4da-22d856822081
+n	java:S106"+Replace this use of System.out by a logger.(©¬–Ó8Ø³ÑÄş1J$73559188-90c8-47d6-bbc6-c1a7011b4d8c

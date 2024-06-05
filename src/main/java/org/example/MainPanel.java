@@ -39,27 +39,19 @@ public class MainPanel extends JPanel implements Runnable {
         this.setPreferredSize(new Dimension(screenWidth, screenHeight));
         this.setBackground(Color.black);
         this.setLayout(new GridLayout(maximumRows, maximumCols));
-
         this.setDoubleBuffered(true);
-
-
         // PLACE NODES
         int col = 0;
         int row = 0;
-
         while (col < maximumCols && row < maximumRows) {
-
             nodesGrid[col][row] = new Node(col, row);
             this.add(nodesGrid[col][row]);
             col++;
             if (col == maximumCols) {
                 col = 0;
                 row++;
-
             }
-
         }
-
         System.out.println("A*\n");
 
 
@@ -74,15 +66,11 @@ public class MainPanel extends JPanel implements Runnable {
         double randomNumber;
 
         for (int i = 0; i < maximumCols; i++) {
-
             for (int j = 0; j < maximumRows; j++) {
                 randomNumber = Math.random() * (rndMaximumLimit - rndMinimumLimit + 1) + rndMinimumLimit;
-
                 if (randomNumber < 0.5) {
-
                     if (nodesGrid[i][j] != startNode && nodesGrid[i][j] != goalNode) {
                         setWallNode(i, j);
-
                     }
                 }
             }
@@ -115,17 +103,13 @@ public class MainPanel extends JPanel implements Runnable {
         int row = 0;
 
         while (col < maximumCols && row < maximumRows) {
-
             getNodeCost(nodesGrid[col][row]);
             col++;
             if (col == maximumCols) {
                 col = 0;
                 row++;
-
             }
-
         }
-
     }
 
     private void getNodeCost(Node node) {
@@ -149,31 +133,21 @@ public class MainPanel extends JPanel implements Runnable {
             if (goalNodeReached == false && maxSteps > 0) {
                 int col = currentNode.col;
                 int row = currentNode.row;
-
                 currentNode.setAsChecked();
-
-
                 if (!(currentNode.isWall)) {
-
                     if (row - 1 >= 0) {
                         openNewNode(nodesGrid[col][row - 1]);
-
                     }
                     if (col - 1 >= 0) {
                         openNewNode(nodesGrid[col - 1][row]);
-
                     }
                     if (row + 1 < maximumRows) {
                         openNewNode(nodesGrid[col][row + 1]);
-
                     }
                     if (col + 1 < maximumCols) {
                         openNewNode(nodesGrid[col + 1][row]);
-
                     }
-
                 }
-
 
                 int bestNodeIndex = 0;
                 int bestNodefCost = 999;
@@ -188,11 +162,8 @@ public class MainPanel extends JPanel implements Runnable {
                     else if ((openSet.get(i).fCost == bestNodefCost) && !(currentNode.isWall)) {
                         if ((openSet.get(i).gCost < openSet.get(bestNodeIndex).gCost) && !(currentNode.isWall)) {
                             bestNodeIndex = i;
-
                         }
-
                     }
-
                 }
 
                 if (openSet.size() > 0) {
@@ -212,41 +183,28 @@ public class MainPanel extends JPanel implements Runnable {
                 if (!(closedSet.contains(currentNode))) {
                     closedSet.add(currentNode);
                 }
-
                 maxSteps--;
-
             } else {
-
                 System.out.println("no solution!");
                 noSolution = true;
-
             }
-
         }
 
 
         if (goalNodeReached || noSolution) {
             for (int i = 0; i < thePathSet.size(); i++) {
-
             }
             isSearchCompleted = true;
-
         }
-
-
     }
 
 
     private void openNewNode(Node node) {
-
         if (node.isOpen == false && node.isChecked == false && node.isWall == false) {
-
             node.setAsOpen();
             node.parent = currentNode;
             openSet.add(node);
-
         }
-
     }
 
     private void trackThePath() {
@@ -254,18 +212,12 @@ public class MainPanel extends JPanel implements Runnable {
         Node current = goalNode;
 
         while (current != startNode) {
-
             current = current.parent;
-
             if (current != startNode) {
                 current.setAsPath();
-
                 thePathSet.add(current);
-
             }
-
         }
-
     }
 
     public void startMainThread() {
@@ -309,27 +261,18 @@ public class MainPanel extends JPanel implements Runnable {
             if (delta >= 1) {
                 if (!isSearchCompleted) {
                     searchGoalNode();
-
                 }
-
-
                 delta--;
                 drawCount++;
-
             }
 
 
             if (timer >= 1000000000) {
                 System.out.println("FPS:" + drawCount);
-
                 drawCount = 0;
                 timer = 0;
-
             }
-
         }
-
-
     }
 
     public void update() {
